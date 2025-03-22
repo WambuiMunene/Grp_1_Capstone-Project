@@ -63,11 +63,11 @@ Before running this project, ensure you have:
    ```
 2. Navigate to the project directory:
    ```sh
-   cd sentiment-analysis
+   #cd sentiment-analysis
    ```
 3. Install dependencies:
    ```sh
-   pip install -r requirements.txt
+   #pip install -r requirements.txt
    ```
 
 ### Usage
