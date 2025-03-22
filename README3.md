@@ -30,7 +30,7 @@
     - [Libraries](#libraries)
   - [How to Run the Project](#how-to-run-the-project)
     - [Run Baseline Models](#run-baseline-models)
-    - [Run BERT Model](#run-bert-model)
+    - [Run Advanced Model(BERT)](#run-advanced-modelbert)
     - [Run Web App (if implemented)](#run-web-app-if-implemented)
   - [Future Enhancements](#future-enhancements)
   - [Contributors](#contributors)
@@ -135,8 +135,6 @@ The dataset is sourced from [McAuley Lab’s Amazon Reviews Dataset (2023)](http
 ![alt text](image-4.png)
 - **Time-Series Analysis** – Sentiment shifts over time
 ![alt text](image-3.png)
-- **Box Plots** – Rating variations across genres
-- **Heatmaps** – Correlations between sentiment, ratings, metadata
 
 ## Deployment Plan
 ### Deliverables
@@ -166,7 +164,7 @@ The dataset is sourced from [McAuley Lab’s Amazon Reviews Dataset (2023)](http
 python svm_model.py
 ```
 
-### Run BERT Model
+### Run Advanced Model(BERT)
 ```python
 python bert_model.py
 ```
